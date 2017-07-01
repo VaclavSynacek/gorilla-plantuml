@@ -1,0 +1,4 @@
+.gorilla-port
+.lein-repl-history
+.nrepl-port
+target/**
